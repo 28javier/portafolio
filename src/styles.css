@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+div>a {
+  color: inherit !important;
+}
+
+.colora:hover {
+  background-color: rgba(209, 236, 214, 0.747);
+}

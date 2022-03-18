@@ -1,0 +1,36 @@
+:root {
+  --color-blue-medium: #8fe2e4;
+  --color-purple: #632ce7;
+  --color-gray: #ccc;
+  --color-gray-medium: #f8f9fa;
+  --color-yellow: #fac32c;
+}
+
+
+/* Estilos Generales */
+
+a {
+  color: inherit !important;
+}
+
+/* SECTIONS */
+
+/* Nav */
+.navbar-brand>img {
+  width: 100px;
+}
+
+.colora:hover {
+  /* color: #f8f9fa; */
+  background-color: rgba(188, 238, 247, 0.692);
+  /* text-decoration: underline violet; */
+}
+
+/* .navbar-main .active {
+  color: white;
+  background: #632ce7;
+} */
+
+.header-main {
+  min-height: 100vh;
+}
